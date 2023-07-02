@@ -66,7 +66,7 @@ const programCompInfo = {
 		"name": "Bioengineering",
 		"old_step": "9",
 		"april1_step": "6",
-		"old_percent": 45.00,
+		"old_percent": 45.07,
 		"april1_percent": 45.00,
 		"got_april1_raise": true
 	},
